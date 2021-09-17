@@ -25,39 +25,15 @@ I create tech content, mostly about Web Development and JavaScript, **but** I al
 
 📺 Latest YouTube Videos
 
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Self-taught developer with Computer Science degree](https://www.youtube.com/watch?v=_G6Hblz6mHE)
-- [Tech Unfiltered with @Francesco Ciulla  - Social Media, YouTube and Community](https://www.youtube.com/watch?v=KeJ7MlwwVK4)
-- [Break out of tutorial hell NOW](https://www.youtube.com/watch?v=blot-hR3ZWA)
-- [Is it too late to start learning how to CODE?](https://www.youtube.com/watch?v=DZT_VXrKcKg)
-- [Make Money As A Developer By Selling APIs](https://www.youtube.com/watch?v=TvRe8NLbF30)
-<!-- YOUTUBE-VIDEOS-LIST:END -->
-
-
-▶ [...more YouTube videos](https://www.youtube.com/channel/UCl1IRCSmm74qhcFNPTHcbMg?sub_confirmation=1)
 
 ---
 
 📘 Latest Blog Articles
 
-<!-- BLOG-POST-LIST:START -->
-- [14 Best Web Developer Portfolios To Get Inspiration](https://catalins.tech/14-best-web-developer-portfolios-to-get-inspiration)
-- [My First 6 Months as a Developer Advocate at Hashnode](https://catalins.tech/my-first-6-months-as-a-developer-advocate-at-hashnode)
-- [Find Open Source Projects To Contribute As A Beginner](https://catalins.tech/find-open-source-projects-to-contribute-as-a-beginner)
-- [Make Money As A Developer By Selling APIs](https://catalins.tech/make-money-as-a-developer-by-selling-apis)
-- [Getting Started With Open-Source: How To Contribute As A Beginner](https://catalins.tech/getting-started-with-open-source-how-to-contribute-as-a-beginner)
-<!-- BLOG-POST-LIST:END -->
 
-▶ [...more blog articles](https://catalins.tech)
+▶ [My Medium Blog](https://catalins.tech)
 
 ---
-
-## &#x1f4c8; My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catalinpit&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=catalinpit&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **catalinpit/catalinpit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
