@@ -31,7 +31,7 @@ I create tech content, mostly about Web Development and JavaScript, **but** I al
 📘 Latest Blog Articles
 
 
-▶ [My Medium Blog](https://catalins.tech)
+▶ [My Medium Blog](https://jessemchung1.medium.com/)
 
 ---
 
