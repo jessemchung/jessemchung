@@ -35,7 +35,7 @@ One day...
 
 ---
 
-- 🔭 I’m currently working on my own TTRPG tool
+- 🔭 I’m currently contributing to zaproxy with a friend!  Really want to get the bronze pea badge
 - 🌱 I’m currently learning firebase, three.js
 - 👯 I’m looking to collaborate on anything really 😄
 - 📫 How to reach me: email@ jessemchung1@gmail.com
