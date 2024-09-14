@@ -3,7 +3,7 @@
 ---
 
 
-A Software Engineer specializing in JavaScript technologies and AWS. Professional experience with the technologies listed in the **toolbox** below.
+A Software Engineer specializing in JavaScript (and Typescript), PHP, .C#, .NET and AWS. Professional experience with the technologies listed in the **toolbox** below.
 
 I create tech content, mostly about Web Development and JavaScript, **but** I also talk about other topics than coding. I'd advise you to subscribe to stay up-to-date!
 
@@ -21,6 +21,8 @@ I create tech content, mostly about Web Development and JavaScript, **but** I al
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> 
+
 
 
 ---
